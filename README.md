@@ -45,9 +45,9 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 Jika Anda memiliki pertanyaan, masukan, atau ingin berdiskusi lebih lanjut tentang proyek ini, Anda dapat menghubungi saya melalui:
 
-- [**Email:**](mailto:alfaruqiteguh@gmail.com)
-- [**LinkedIn:**](www.linkedin.com/in/teguh-alfaruqi-67399b291)
-- [**GitHub:**](https://github.com/TeguhA10)
+- **Email:** [alfaruqiteguh@gmail.com](mailto:alfaruqiteguh@gmail.com)
+- **LinkedIn:** [teguh-alfaruq](https://www.linkedin.com/in/teguh-alfaruqi-67399b291/)
+- **GitHub:** [github](https://github.com/TeguhA10)
 
 Saya akan dengan senang hati membantu!
 
