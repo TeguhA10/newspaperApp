@@ -21,7 +21,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
    Clone repository ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/TeguhA10/newspaperApp.git
 
 2. **Navigasi ke Direktori Proyek**
 
