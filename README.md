@@ -1,3 +1,47 @@
+# Newspaper App
+
+**Newspaper App** adalah aplikasi web yang menampilkan berita terkini menggunakan API gratis dari [NewsAPI](https://newsapi.org). Aplikasi ini dibangun dengan teknologi dan pustaka berikut:
+
+- **React**: Untuk membangun antarmuka pengguna.
+- **Deasy UI**: Untuk komponen antarmuka yang intuitif.
+- **React Icons**: Untuk ikon yang beragam dan mudah digunakan.
+- **Tailwind CSS**: Untuk styling dan desain responsif.
+
+Aplikasi ini memungkinkan pengguna untuk membaca berita terbaru dan menyimpan riwayat artikel yang telah dibaca.
+
+## Prerequisites
+
+Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/) dan [npm](https://www.npmjs.com/).
+
+## Instalasi
+
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
+
+1. **Clone Repository**
+
+   Clone repository ini ke mesin lokal Anda:
+   ```bash
+   git clone https://github.com/username/repository-name.git
+
+2. **Navigasi ke Direktori Proyek**
+
+   Navigasi ke Direktori Proyek
+   ```bash
+   cd repository-name
+
+3. **Instal Dependensi**
+   
+   Instal semua dependensi yang diperlukan dengan npm:
+   ```bash
+   npm install
+
+4. **Jalankan Proyek**
+
+   Untuk menjalankan proyek dalam mode pengembangan, gunakan perintah:
+   ```bash
+   npm start
+   
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
